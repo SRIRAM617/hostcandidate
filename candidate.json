@@ -1,0 +1,255 @@
+[
+  {
+    "candidateId": 1,
+    "name": "Kelly Johnson",
+    "certificates": [
+      {
+        "name": "Certified Computer Science Educator",
+        "authority": "Association for Computing Machinery",
+        "year": 2020
+      }
+    ],
+    "yearsOfExperience": 5,
+    "skills": [
+      "Programming Languages",
+      "Educational Technology",
+      "Classroom Instruction"
+    ],
+    "preferedLocation": [
+      "San Francisco",
+      "Seattle"
+    ],
+    "preferredSalaryIn$": 700,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Computer Science"
+  },
+  {
+    "candidateId": 2,
+    "name": "Bob Smith",
+    "certificates": [
+      {
+        "name": "Certified Science Educator",
+        "authority": "National Science Foundation",
+        "year": 2020
+      }
+    ],
+    "yearsOfExperience": 9,
+    "skills": [
+      "Hands-on Experiments",
+      "Science Education",
+      "Classroom Engagement"
+    ],
+    "preferedLocation": [
+      "Los Angeles"
+    ],
+    "preferredSalaryIn$": 600,
+    "gradeLevel": [
+      "primary",
+      "intermediate"
+    ],
+    "qualification": "Bachelor's Degree in Science"
+  },
+  {
+    "candidateId": 3,
+    "name": "Charlie Davis",
+    "certificates": [
+      {
+        "name": "Certified Computer Science Educator",
+        "authority": "Association for Computing Machinery",
+        "year": 2021
+      }
+    ],
+    "yearsOfExperience": 6,
+    "skills": [
+      "Programming Languages",
+      "Educational Technology",
+      "Classroom Instruction"
+    ],
+    "preferedLocation": [
+      "San Francisco"
+    ],
+    "preferredSalaryIn$": 700,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Computer Science"
+  },
+  {
+    "candidateId": 4,
+    "name": "David Thompson",
+    "certificates": [
+      {
+        "name": "Certified Physics Educator",
+        "authority": "American Physical Society",
+        "year": 2022
+      }
+    ],
+    "yearsOfExperience": 7,
+    "skills": [
+      "Physics",
+      "Teaching Strategies",
+      "Educational Leadership"
+    ],
+    "preferedLocation": [
+      "Seattle"
+    ],
+    "preferredSalaryIn$": 750,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Education with a focus on Physics"
+  },
+  {
+    "candidateId": 5,
+    "name": "Eva White",
+    "certificates": [
+      {
+        "name": "Certified Biology Educator",
+        "authority": "National Association of Biology Teachers",
+        "year": 2020
+      }
+    ],
+    "yearsOfExperience": 5,
+    "skills": [
+      "Life Sciences",
+      "Curriculum Development",
+      "Classroom Engagement"
+    ],
+    "preferedLocation": [
+      "Chicago"
+    ],
+    "preferredSalaryIn$": 550,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Biology"
+  },
+  {
+    "candidateId": 6,
+    "name": "Frank Miller",
+    "certificates": [
+      {
+        "name": "Certified Math Educator",
+        "authority": "National Council of Teachers of Mathematics",
+        "year": 2022
+      }
+    ],
+    "yearsOfExperience": 4,
+    "skills": [
+      "Algebra",
+      "Math Instruction",
+      "Student Support"
+    ],
+    "preferedLocation": [
+      "Houston"
+    ],
+    "preferredSalaryIn$": 500,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Mathematics"
+  },
+  {
+    "candidateId": 7,
+    "name": "Grace Turner",
+    "certificates": [
+      {
+        "name": "Certified Chemistry Educator",
+        "authority": "American Chemical Society",
+        "year": 2021
+      }
+    ],
+    "yearsOfExperience": 5,
+    "skills": [
+      "Chemistry",
+      "Experimental Sciences",
+      "Classroom Instruction"
+    ],
+    "preferedLocation": [
+      "Miami"
+    ],
+    "preferredSalaryIn$": 600,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Chemistry"
+  },
+  {
+    "candidateId": 8,
+    "name": "Henry Clark",
+    "certificates": [
+      {
+        "name": "Certified Computer Science Educator",
+        "authority": "Association for Computing Machinery",
+        "year": 2022
+      }
+    ],
+    "yearsOfExperience": 7,
+    "skills": [
+      "Advanced Programming",
+      "Educational Technology",
+      "Classroom Instruction"
+    ],
+    "preferedLocation": [
+      "Boston"
+    ],
+    "preferredSalaryIn$": 700,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Computer Science"
+  },
+  {
+    "candidateId": 9,
+    "name": "Isaac Turner",
+    "certificates": [
+      {
+        "name": "Certified Physics Educator",
+        "authority": "American Physical Society",
+        "year": 2021
+      }
+    ],
+    "yearsOfExperience": 6,
+    "skills": [
+      "Theoretical Physics",
+      "Educational Leadership",
+      "Classroom Engagement"
+    ],
+    "preferedLocation": [
+      "Denver"
+    ],
+    "preferredSalaryIn$": 750,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Physics Education"
+  },
+  {
+    "candidateId": 10,
+    "name": "Jasmine Lee",
+    "certificates": [
+      {
+        "name": "Certified Yoga Instructor",
+        "authority": "Yoga Alliance",
+        "year": 2020
+      }
+    ],
+    "yearsOfExperience": 3,
+    "skills": [
+      "Yoga Instruction",
+      "Poses",
+      "Mindfulness"
+    ],
+    "preferedLocation": [
+      "San Diego"
+    ],
+    "preferredSalaryIn$": 25,
+    "gradeLevel": [],
+    "qualification": "Yoga Certification"
+  }
+]
