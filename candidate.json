@@ -19,7 +19,7 @@
       "San Francisco",
       "Seattle"
     ],
-    "preferredSalaryIn$": 700,
+    "preferredSalaryInDollars": 700,
     "gradeLevel": [
       "intermediate",
       "secondary"
@@ -45,7 +45,7 @@
     "preferedLocation": [
       "Los Angeles"
     ],
-    "preferredSalaryIn$": 600,
+    "preferredSalaryInDollars": 600,
     "gradeLevel": [
       "primary",
       "intermediate"
@@ -71,7 +71,7 @@
     "preferedLocation": [
       "San Francisco"
     ],
-    "preferredSalaryIn$": 700,
+    "preferredSalaryInDollars": 700,
     "gradeLevel": [
       "intermediate",
       "secondary"
@@ -97,7 +97,7 @@
     "preferedLocation": [
       "Seattle"
     ],
-    "preferredSalaryIn$": 750,
+    "preferredSalaryInDollars": 750,
     "gradeLevel": [
       "secondary"
     ],
@@ -122,7 +122,7 @@
     "preferedLocation": [
       "Chicago"
     ],
-    "preferredSalaryIn$": 550,
+    "preferredSalaryInDollars": 550,
     "gradeLevel": [
       "secondary"
     ],
@@ -147,7 +147,7 @@
     "preferedLocation": [
       "Houston"
     ],
-    "preferredSalaryIn$": 500,
+    "preferredSalaryInDollars": 500,
     "gradeLevel": [
       "secondary"
     ],
@@ -158,25 +158,25 @@
     "name": "Grace Turner",
     "certificates": [
       {
-        "name": "Certified Chemistry Educator",
-        "authority": "American Chemical Society",
+        "name": "Certified Yoga Instructor",
+        "authority": "Yoga Alliance",
         "year": 2021
       }
     ],
     "yearsOfExperience": 5,
     "skills": [
-      "Chemistry",
-      "Experimental Sciences",
-      "Classroom Instruction"
+      "Yoga Instruction",
+      "Poses",
+      "Mindfulness"
     ],
     "preferedLocation": [
       "Miami"
     ],
-    "preferredSalaryIn$": 600,
+    "preferredSalaryInDollars": 600,
     "gradeLevel": [
-      "secondary"
+      "primary,secondary,intermediate"
     ],
-    "qualification": "Bachelor's Degree in Chemistry"
+    "qualification": "Yoga Certification"
   },
   {
     "candidateId": 8,
@@ -197,7 +197,7 @@
     "preferedLocation": [
       "Boston"
     ],
-    "preferredSalaryIn$": 700,
+    "preferredSalaryInDollars": 700,
     "gradeLevel": [
       "intermediate",
       "secondary"
@@ -223,7 +223,7 @@
     "preferedLocation": [
       "Denver"
     ],
-    "preferredSalaryIn$": 750,
+    "preferredSalaryInDollars": 750,
     "gradeLevel": [
       "secondary"
     ],
@@ -248,8 +248,269 @@
     "preferedLocation": [
       "San Diego"
     ],
-    "preferredSalaryIn$": 25,
+    "preferredSalaryInDollars": 25,
     "gradeLevel": [],
     "qualification": "Yoga Certification"
+  },
+  {
+    "candidateId": 11,
+    "name": "Olivia Anderson",
+    "certificates": [
+      {
+        "name": "Certified Mathematics Educator",
+        "authority": "National Council of Teachers of Mathematics",
+        "year": 2021
+      }
+    ],
+    "yearsOfExperience": 8,
+    "skills": [
+      "Calculus",
+      "Math Instruction",
+      "Problem Solving"
+    ],
+    "preferedLocation": [
+      "New York",
+      "Chicago"
+    ],
+    "preferredSalaryInDollars": 650,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Mathematics"
+  },
+  {
+    "candidateId": 12,
+    "name": "Peter Davis",
+    "certificates": [
+      {
+        "name": "Certified Mathematics Educator",
+        "authority": "National Council of Teachers of Mathematics",
+        "year": 2022
+      }
+    ],
+    "yearsOfExperience": 6,
+    "skills": [
+      "Algebra",
+      "Geometry",
+      "Mathematical Modeling"
+    ],
+    "preferedLocation": [
+      "Houston",
+      "Dallas"
+    ],
+    "preferredSalaryInDollars": 600,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Mathematics"
+  },
+  {
+    "candidateId": 13,
+    "name": "Sophie Turner",
+    "certificates": [
+      {
+        "name": "Certified Science Educator",
+        "authority": "National Science Foundation",
+        "year": 2021
+      }
+    ],
+    "yearsOfExperience": 7,
+    "skills": [
+      "Science Education"
+    ],
+    "preferedLocation": [
+      "Los Angeles",
+      "San Francisco"
+    ],
+    "preferredSalaryInDollars": 700,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Science"
+  },
+  {
+    "candidateId": 14,
+    "name": "Daniel White",
+    "certificates": [
+      {
+        "name": "Certified Science Educator",
+        "authority": "National Science Foundation",
+        "year": 2022
+      }
+    ],
+    "yearsOfExperience": 5,
+    "skills": [
+      "Life Sciences",
+      "Experimental Sciences"
+    ],
+    "preferedLocation": [
+      "Seattle",
+      "Denver"
+    ],
+    "preferredSalaryInDollars": 650,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Science"
+  },
+  {
+    "candidateId": 15,
+    "name": "Lucas Miller",
+    "certificates": [
+      {
+        "name": "Certified Computer Science Educator",
+        "authority": "Association for Computing Machinery",
+        "year": 2023
+      }
+    ],
+    "yearsOfExperience": 4,
+    "skills": [
+      "Programming Languages",
+      "Database Management",
+      "Educational Technology"
+    ],
+    "preferedLocation": [
+      "San Francisco",
+      "San Jose"
+    ],
+    "preferredSalaryInDollars": 750,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Computer Science"
+  },
+  {
+    "candidateId": 16,
+    "name": "Emma Turner",
+    "certificates": [
+      {
+        "name": "Certified Computer Science Educator",
+        "authority": "Association for Computing Machinery",
+        "year": 2020
+      }
+    ],
+    "yearsOfExperience": 6,
+    "skills": [
+      "Software Development",
+      "Educational Technology",
+      "Classroom Instruction"
+    ],
+    "preferedLocation": [
+      "Seattle",
+      "Portland"
+    ],
+    "preferredSalaryInDollars": 700,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Computer Science"
+  },
+  {
+    "candidateId": 17,
+    "name": "Hannah White",
+    "certificates": [
+      {
+        "name": "Certified Mathematics Educator",
+        "authority": "National Council of Teachers of Mathematics",
+        "year": 2021
+      }
+    ],
+    "yearsOfExperience": 5,
+    "skills": [
+      "Algebra",
+      "Geometry",
+      "Math Instruction"
+    ],
+    "preferedLocation": [
+      "Chicago",
+      "Detroit"
+    ],
+    "preferredSalaryInDollars": 600,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Mathematics"
+  },
+  {
+    "candidateId": 18,
+    "name": "Owen Davis",
+    "certificates": [
+      {
+        "name": "Certified Physics Educator",
+        "authority": "American Physical Society",
+        "year": 2023
+      }
+    ],
+    "yearsOfExperience": 7,
+    "skills": [
+      "Physics",
+      "Educational Leadership",
+      "Classroom Engagement"
+    ],
+    "preferedLocation": [
+      "Denver",
+      "Phoenix"
+    ],
+    "preferredSalaryInDollars": 750,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Physics Education"
+  },
+  {
+    "candidateId": 19,
+    "name": "Ava Turner",
+    "certificates": [
+      {
+        "name": "Certified Physics Educator",
+        "authority": "American Physical Society",
+        "year": 2020
+      }
+    ],
+    "yearsOfExperience": 6,
+    "skills": [
+      "Theoretical Physics",
+      "Physics Experiments",
+      "Educational Leadership"
+    ],
+    "preferedLocation": [
+      "San Diego",
+      "Los Angeles"
+    ],
+    "preferredSalaryInDollars": 700,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Master's Degree in Physics Education"
+  },
+  {
+    "candidateId": 20,
+    "name": "Lily Johnson",
+    "certificates": [
+      {
+        "name": "Certified Biology Educator",
+        "authority": "National Association of Biology Teachers",
+        "year": 2020
+      }
+    ],
+    "yearsOfExperience": 2,
+    "skills": [
+      "Life Sciences",
+      "Curriculum Development",
+      "Classroom Engagement"
+    ],
+    "preferedLocation": [
+      "San Diego",
+      "Los Angeles"
+    ],
+    "preferredSalaryInDollars": 30,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "qualification": "Bachelor's Degree in Biology"
   }
 ]
